@@ -1,0 +1,2 @@
+C:/Users/MSI/StudioProjects/meowlens_ai/android/app/.cxx/Debug/2x6qe503/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/MSI/StudioProjects/meowlens_ai/android/app/.cxx/Debug/2x6qe503/armeabi-v7a/CMakeFiles/rebuild_cache.dir
