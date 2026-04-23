@@ -1,70 +1,83 @@
-🐱 Kedi Türü Tanıma Projesi
-📌 Proje Hakkında
-Bu proje, İstanbul Sağlık ve Teknoloji Üniversitesi bünyesinde geliştirilen, derin öğrenme teknolojilerini kullanarak kedi türlerini otomatik olarak tanıyan bir yapay zeka uygulamasıdır. TensorFlow framework'ü ve MobileNetV2 mimarisi kullanılarak oluşturulmuştur.
+# MEOWLENS-AI
 
-🎯 Tanınabilen Kedi Türleri
-Bengal 🐆
-Domestic Shorthair 🏠
-Maine Coon 🦁
-Ragdoll 🐈
-Siamese 😺
+## Overview
+MEOWLENS-AI is an AI-powered cat breed classification project developed to recognize cat breeds from images using deep learning.
 
-✨ Özellikler
-Transfer öğrenme ile geliştirilmiş model
-Yüksek doğruluk oranı
-Hızlı ve etkili tanıma
-Kullanıcı dostu arayüz
-Gerçek zamanlı tahmin yapabilme
+In addition to the model development process, the project also includes a simple Flutter-based interface to make the classification flow more user-friendly and easier to interact with.
 
-🛠️ Kullanılan Teknolojiler
-Python
-TensorFlow
-Keras
-Google Colab (Eğitim için)
+## Project Background
+This project was developed at Istanbul Health and Technology University as part of an academic software engineering study. The main goal was to build a practical image classification system using transfer learning and to support it with a simple interface for a better user experience.
 
+## Recognized Cat Breeds
+- Bengal
+- Domestic Shorthair
+- Maine Coon
+- Ragdoll
+- Siamese
 
-📊 Model Performansı
-Eğitim Doğruluğu: ~95%
-Test Doğruluğu: ~92%
-Validation Doğruluğu: ~90%
+## Features
+- Cat breed classification from images
+- Deep learning model built with transfer learning
+- Mobile-friendly project structure
+- Simple user interface for interaction
+- Fast and efficient prediction workflow
+- Potential for real-time breed prediction
 
+## Technologies Used
+- Python
+- TensorFlow
+- Keras
+- MobileNetV2
+- Flutter
+- Google Colab
 
-🚀 Nasıl Kullanılır?
-Projeyi bilgisayarınıza indirin/uygulama indirmeye açık hale geldiğinde indirin
-Gerekli kütüphaneleri yükleyin
-Ana programı çalıştırın
-Bir kedi fotoğrafı yükleyin
-Sonucu görüntüleyin!
+## My Role
 
+### Kardelen Bayraktar
+- Contributed extensively to the development of the project
+- Worked on the AI model side of the cat breed classification system
+- Helped shape the project as a practical deep learning application
+- Built a simple interface to make the system easier to use
+- Invested significant effort in improving both the project structure and overall usability
 
-📋 Gereksinimler
-Python 3.8 veya üzeri
-TensorFlow 2.x
-Temel Python kütüphaneleri
-👥 Proje Ekibi
-Kardelen BAYRAKTAR - Proje Geliştirici
-Hasan Burkay İLERİ - Proje Geliştirici
-fatma Begüm ERDEMİR - Proje Geliştirici
-Halis ALTUN - Akademik Danışman
-🎓 Akademik Bilgiler
-Kurum: İstanbul Sağlık ve Teknoloji Üniversitesi
+## Model Performance
+- Training Accuracy: ~95%
+- Test Accuracy: ~92%
+- Validation Accuracy: ~90%
 
-Bölüm: Yazılım Mühendisliği (İng.)
+## Interface
+The project also includes a simple interface layer that makes the classification system more accessible and user-friendly. This helped turn the project into more than just a notebook-based model experiment and gave it a more practical application structure.
 
-Dönem: 2023-2024
+## Project Goal
+The goal of this project is to build an AI-based image classification system that can accurately recognize cat breeds while also providing a simple and usable interface for interaction.
 
-📚 Kaynaklar
-TensorFlow Dokümantasyonu
-Keras Dokümantasyonu
-Akademik Makaleler
-Çevrimiçi Eğitim Kaynakları
-📫 İletişim
-E-posta: kardelen.bayraktar@istun.edu.tr
+## How to Use
+1. Clone or download the project
+2. Install the required dependencies
+3. Run the model or application files
+4. Upload a cat image
+5. View the predicted breed result
 
-Bu proje İstanbul Sağlık ve Teknoloji Üniversitesi'nde akademik çalışma kapsamında geliştirilmiştir.
+## Requirements
+- Python 3.8 or higher
+- TensorFlow 2.x
+- Flutter SDK
+- Basic Python libraries for model execution
 
-🌟 Teşekkürler
-İstanbul Sağlık ve Teknoloji Üniversitesi'ne
-Akademik danışmanlarımıza
-Projeye katkıda bulunan tüm ekip üyelerine
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+## Academic Information
+- Institution: Istanbul Health and Technology University
+- Department: Software Engineering
+- Term: 2023–2024
+
+## Future Improvements
+- Expanding the dataset with more cat breeds
+- Improving model generalization
+- Enhancing the interface design
+- Deploying the project as a more polished mobile or web application
+- Improving prediction explainability
+
+## Team
+- Kardelen Bayraktar – Project Developer
+- Hasan Burkay İleri – Project Developer
+- Fatma Begüm Erdemir – Project Developer
+- Halis Altun – Academic Advisor;
